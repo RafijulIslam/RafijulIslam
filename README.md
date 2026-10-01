@@ -1,6 +1,6 @@
 # Hi, I'm Rafijul 👋
 
-- 📊 **Business Intelligence & Data Analyst** — transitioning from 3+ years in sales and account management into data analytics
+- 📊 **Business Intelligence & Data Analyst** — transitioning from 5+ years in sales and account management into data analytics
 - 🎓 Completed the **Data Analyst Career Track** (Ostad) — Excel/Google Sheets, SQL, Power BI
 - 📜 Certified in **Zero to Advanced SQL with BigQuery & Metabase** (Interactive Cares)
 - 💼 Currently a **Sales Executive** in Dubai, UAE; previously **Junior Key Account Executive** and **Executive** at Daraz Bangladesh
