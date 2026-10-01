@@ -30,4 +30,4 @@ I enjoy the part of analytics that's closest to the business problem — cleanin
 
 [![Email](https://img.shields.io/badge/Email-irafijul71%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:irafijul71@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafijul%20Islam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafijul-islam-552bb2250)
-[![Portfolio](https://img.shields.io/badge/Portfolio-rafijul.islam-000000?style=flat&logo=github&logoColor=white)](https://irafijul71-stack.github.io/rafijul.islam/)
+[![Portfolio](https://rafijulislam.github.io/rafijul.islam/)
